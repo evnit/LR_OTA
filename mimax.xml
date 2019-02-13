@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LiquidOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <UNOFFICE>
+    <UNOFFICIAL>
         <hydrogen>
             <Filename>10.0.5-20190210-UnUnOfficial-enchilada.zip</Filename>
             <RomUrl
@@ -16,8 +16,8 @@
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
         </hydrogen>
-    </UNOFFICE>
-    <UNOFFICE>
+    </UNOFFICIAL>
+    <UNOFFICIAL>
         <helium>
             <Filename>10.0.5-20190210-UnOfficial-fajita.zip</Filename>
             <RomUrl
@@ -33,5 +33,5 @@
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
         </helium>
-    </UNOFFICE>
+    </UNOFFICIAL>
 </LiquidOTA>
