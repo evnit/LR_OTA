@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for hydrogen">https://sourceforge.net/projects/liquid-remix/files/enchilada/liquid_remix-10.0.5-20190210-UnUnOfficial-enchilada.zip/download</RomUrl>
+                description="Download latest build for hydrogen">https://www.androidfilehost.com/?fid=1395089523397891865</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -23,11 +23,11 @@
     </UNOFFICIAL>
     <UNOFFICIAL>
         <helium>
-            <Filename>10.0.5-20190210-UnOfficial-fajita.zip</Filename>
+            <Filename>10.0.5-20190213-UNOFFICIAL-helium.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for helium">https://sourceforge.net/projects/liquid-remix/files/fajita/liquid_remix-10.0.5-20190210-UnOfficial-fajita.zip/download</RomUrl>
+                description="Download latest build for helium">https://www.androidfilehost.com/?fid=1395089523397891864</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
