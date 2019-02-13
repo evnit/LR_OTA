@@ -15,6 +15,10 @@
             	id="open_gapps"
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit LiquidRemix for Xiaomi Mi Max thread">https://forum.xda-developers.com/mi-max/development/rom-liquidremix-t3891428</XDAUrl>
         </hydrogen>
     </UNOFFICIAL>
     <UNOFFICIAL>
@@ -32,6 +36,10 @@
             	id="open_gapps"
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit LiquidRemix for Xiaomi Mi Max thread">https://forum.xda-developers.com/mi-max/development/rom-liquidremix-t3891428</XDAUrl>
         </helium>
     </UNOFFICIAL>
 </LiquidOTA>
