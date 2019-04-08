@@ -2,7 +2,7 @@
 <LiquidOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <UNOFFICIAL>
         <hydrogen>
-            <Filename>10.0.6-20190310-UNOFFICIAL-hydrogen.zip</Filename>
+            <Filename>10.0.7-20190408-UNOFFICIAL-hydrogen.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
@@ -14,7 +14,7 @@
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
-            	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
+            	description="Download latest Nano OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
@@ -23,7 +23,7 @@
     </UNOFFICIAL>
     <UNOFFICIAL>
         <helium>
-            <Filename>10.0.6-20190310-UNOFFICIAL-hhelium.zip</Filename>
+            <Filename>10.0.7-20190408-UNOFFICIAL-helium.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
@@ -35,7 +35,7 @@
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
-            	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
+            	description="Download latest Nano OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
