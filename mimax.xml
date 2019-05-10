@@ -2,11 +2,11 @@
 <LiquidOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <UNOFFICIAL>
         <hydrogen>
-            <Filename>10.0.7-20190408-UNOFFICIAL-hydrogen.zip</Filename>
+            <Filename>10.0.8-20190509-UNOFFICIAL-hydrogen.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for hydrogen">https://www.androidfilehost.com/?fid=1395089523397936004</RomUrl>
+                description="Download latest build for hydrogen">https://www.androidfilehost.com/?fid=1395089523397962605</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -23,11 +23,11 @@
     </UNOFFICIAL>
     <UNOFFICIAL>
         <helium>
-            <Filename>10.0.7-20190408-UNOFFICIAL-helium.zip</Filename>
+            <Filename>10.0.8-20190510-UNOFFICIAL-helium.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for helium">https://www.androidfilehost.com/?fid=1395089523397936003</RomUrl>
+                description="Download latest build for helium">https://www.androidfilehost.com/?fid=1395089523397962604</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
